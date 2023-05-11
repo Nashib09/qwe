@@ -4,7 +4,7 @@
 <link rel="stylesheet" type="text/css" 
 href="styles09.css" title="style09.css">
 <center>
-<p9>Gandaki University BIT Project-1 2nd-Semester</p9>
+<p9>kGandaki University BIT Project-1 2nd-Semester</p9>
 <br>
 <p0>BIT Learning Website</p0><br>
 
